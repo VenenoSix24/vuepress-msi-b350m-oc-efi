@@ -1,7 +1,7 @@
 ---
 title: 快速上手
 index: false
-icon: lightbulb
+icon: rocket
 category:
   - 使用指南
 ---

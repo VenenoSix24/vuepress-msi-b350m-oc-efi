@@ -4,7 +4,7 @@ export default navbar([
   "/",
   "/setup/",
   "/intro/",
-  "/download/",
+  "/download/", 
   // {
   //   text: "指南",
   //   icon: "lightbulb",
