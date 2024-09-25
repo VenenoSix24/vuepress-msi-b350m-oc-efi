@@ -2,7 +2,8 @@
 home: true
 icon: home
 title: 首页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: /logo.png
+# heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 # bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 # bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:

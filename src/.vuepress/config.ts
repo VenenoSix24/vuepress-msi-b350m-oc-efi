@@ -16,10 +16,10 @@ export default defineUserConfig({
   // shouldPrefetch: false,
 });
 
-  theme: hopeTheme({
-    navbarLayout: {
-      start: ["Brand"],
-      center: ["Links"],
-      end: ["Language", "Repo", "Outlook", "Search"],
-    },
-  });
+  // theme: hopeTheme({
+  //   navbarLayout: {
+  //     start: ["Brand"],
+  //     center: ["Links"],
+  //     end: ["Language", "Repo", "Outlook", "Search"],
+  //   },
+  // });
